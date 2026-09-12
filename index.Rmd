@@ -1,0 +1,14 @@
+---
+title: "Allison Chen"
+image: allison.jpeg
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/allison-b-chen/"
+  - label: GitHub
+    url: "https://github.com/allisonc4321"
+  - label: Email
+    url: "mailto:achen202@jh.edu"
+output:
+  postcards::trestles
+---
+
