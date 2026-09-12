@@ -2,6 +2,8 @@
 title: "Allison Chen"
 image: allison.jpeg
 links:
+  - label: CV
+    url:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/allison-b-chen/"
   - label: GitHub
@@ -11,4 +13,28 @@ links:
 output:
   postcards::trestles
 ---
+
+## About Me
+Hi everyone! I am a first-year ScM Biostatistics student at the Johns Hopkins Bloomberg School of Public Health.I received my Bachelor's of Science from UCLA with a major in Data Theory and a minor in Data Science Engineering.
+
+During my undergraduate studies, I was a Biostatisitics Research Assistant at the Children's Hospital of Philadelphia, studying glomerular disease biomarkers. I have also worked as a Data Science Intern at Warner Music Group during my senior year. I am interested in survival analysis, high-dimensional data, and causal inference studies, but I am also open to exploring other fields and intersections of Biostatistics.
+
+## Education
+**Johns Hopkins Bloomberg School of Public Health** | Aug 2026 - Expected May 2028 <br>
+*ScM in Biostatistics*
+
+
+**University of California, Los Angeles** | Sep 2022 - Jun 2026 <br>
+*BS in Data Theory & Minor in Data Science Engineering*
+
+## Research Experience
+**Children's Hospital of Philadelphia** | Jun 2024 - Jun 2025
+
+**The Bickart Lab at David Geffen School of Medicine at UCLA** | Feb 2024 - Jun 2024
+
+## Interests
+Taekwondo (Third Dan Black Belt, Prev. UCLA Taekwondo Assistant Coach) <br>
+Video Editing <br>
+Journaling <br>
+
 
