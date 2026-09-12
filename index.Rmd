@@ -2,8 +2,6 @@
 title: "Allison Chen"
 image: allison.jpeg
 links:
-  - label: CV
-    url:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/allison-b-chen/"
   - label: GitHub
